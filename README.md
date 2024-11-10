@@ -4,4 +4,4 @@ I am creating exercises for Android Other repositories:
 - [Kotlin](https://github.com/develooper1994/LearningKotlin)
 
 Projects:
-- Calculator
+- [Calculator](https://github.com/develooper1994/Calculator-Android): Basic user interface design with very simple coding exercise for android
